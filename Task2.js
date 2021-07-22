@@ -22,7 +22,7 @@ class LinkedList {
                 }
 
                 //if at the end of linked list with not index found
-            } else if (this.list[i].next === null && this.prev_node === null) {
+            } else if (this.list[i].next === null) {
 
                 this.prev_node = "index does not exist";
                 break;
@@ -41,6 +41,6 @@ class LinkedList {
 
 let preceding_value = new LinkedList();
 
-let val = preceding_value.get_rev_node(28);
+let val = preceding_value.get_rev_node(6);
 
 console.log(val);
