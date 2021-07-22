@@ -22,3 +22,7 @@
    Modifying the server and Vms configuration can be done in the Server
    and VirtualMachine Class. This structure was implemented based on the UML definition in the task description.
     
+    
+   <select/>**TAsk 1 and Task 2** <p>
+    
+    Task 1 and Task 2 are in the project root, named Task1.js and Task2.js
